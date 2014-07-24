@@ -2,7 +2,7 @@
 
 > Make Transitions Effects with the power of WebGL Shaders (GLSL)
 
-[**Open The Example**](https://gre.github.com/glsl-transition/example)
+[**Open The Example**](https://65-Team.github.com/GLSL_Transition/example)
 
 
 # Getting Started
